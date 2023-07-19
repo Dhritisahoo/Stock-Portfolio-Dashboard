@@ -1,5 +1,4 @@
-# Application
- Stock Portfolio Dashboard
+## Stock Portfolio Dashboard
 
 This is a stock portfolio dashboard built using Dash, a web application framework for Python. 
 The dashboard allows you to select stocks, specify weights for different investor types (conservative, moderate, aggressive), 
